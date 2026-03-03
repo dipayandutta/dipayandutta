@@ -1,5 +1,18 @@
-## 💫 About Me<br>Current Working with Red Hat <br><br>🔹 Linux Engineer with 8+ years of experience in system administration and infrastructure engineering.  <br>🔹 Red Hat Certified (RHCSA, RHCE,Containers,OpenShift) with strong expertise in RHEL-based environments.  <br>🔹 Specialized in NGINX, Apache, reverse proxy architecture, and web application security hardening.  <br>🔹 Experienced in Docker, Kubernetes, OpenShift, and Ceph storage deployments.  <br>🔹 Security-focused professional with hands-on knowledge in vulnerability analysis and penetration testing.  <br>🔹 Python developer building automation tools, ML-assisted troubleshooting systems, and system-level utilities.  <br>🔹 Currently exploring Linux kernel module development, eBPF, and quantum-integrated security systems.  <br><br>🚀 Passionate about low-level system internals, performance optimization, and building intelligent infrastructure tools.
+## 💫 About Me  
 
+Currently Working with Red Hat  
+
+🐧 8+ years of experience in Linux System Administration (RHEL-based environments)  
+🎓 Red Hat Certified: RHCSA | RHCE | Containers | OpenShift  
+🌐 Web stack expertise: NGINX, Apache, Reverse Proxy, ModSecurity  
+🐳 Containerization & Orchestration: Docker, Kubernetes, OpenShift  
+💾 Storage & Infrastructure: Ceph, AWS (EC2, EBS, VPC, S3)  
+🔐 Security-focused: Vulnerability Assessment, Penetration Testing, System Hardening  
+🐍 Python Developer building automation and ML-based troubleshooting tools  
+⚙ Exploring Kernel Modules, eBPF, and System-Level Observability  
+⚛ Researching Quantum-integrated security and entropy systems  
+
+🚀 Passionate about low-level system internals, performance optimization, and building intelligent infrastructure tools.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipayandutta/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inbox.dipayan@gmail.com) 
