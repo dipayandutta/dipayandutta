@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 💫 About Me<br>Current Working with Red Hat <br><br>🔹 Linux Engineer with 8+ years of experience in system administration and infrastructure engineering.  <br>🔹 Red Hat Certified (RHCSA, RHCE,Containers,OpenShift) with strong expertise in RHEL-based environments.  <br>🔹 Specialized in NGINX, Apache, reverse proxy architecture, and web application security hardening.  <br>🔹 Experienced in Docker, Kubernetes, OpenShift, and Ceph storage deployments.  <br>🔹 Security-focused professional with hands-on knowledge in vulnerability analysis and penetration testing.  <br>🔹 Python developer building automation tools, ML-assisted troubleshooting systems, and system-level utilities.  <br>🔹 Currently exploring Linux kernel module development, eBPF, and quantum-integrated security systems.  <br><br>🚀 Passionate about low-level system internals, performance optimization, and building intelligent infrastructure tools.
 
 
@@ -11,9 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=dipayandutta&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dipayandutta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipayandutta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dipayandutta&icon=2&color=0)](https://visitcount.itsvg.in)
