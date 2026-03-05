@@ -13,6 +13,9 @@
 <tr>
 <td>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F7FF&center=true&width=700&lines=whoami+Dipayan+Dutta;Linux+Infrastructure+Engineer;Red+Hat+Certified+RHCE;DevOps+%7C+Security+Researcher">
+</p>
 
 Currently Working with Red Hat  
 
