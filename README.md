@@ -1,3 +1,6 @@
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Dipayan+Dutta;Linux+Engineer+%7C+Red+Hat+Certified;DevOps+%7C+Security+Researcher;Kernel+%7C+eBPF+%7C+ML+Infrastructure;Quantum+Security+Research" />
+</h1>
 ## 💫 About Me  
 
 Currently Working with Red Hat  
