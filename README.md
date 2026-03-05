@@ -3,19 +3,6 @@
 </h1>
 ## 💫 About Me  
 
-<h2 align="center">💫 About Me</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/System_Profile-Linux_Engineer-black?style=for-the-badge&logo=linux&logoColor=white">
-</p>
-
-<table align="center">
-<tr>
-<td>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F7FF&center=true&width=700&lines=whoami+Dipayan+Dutta;Linux+Infrastructure+Engineer;Red+Hat+Certified+RHCE;DevOps+%7C+Security+Researcher">
-</p>
 
 Currently Working with Red Hat  
 
