@@ -3,6 +3,17 @@
 </h1>
 ## 💫 About Me  
 
+<h2 align="center">💫 About Me</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/System_Profile-Linux_Engineer-black?style=for-the-badge&logo=linux&logoColor=white">
+</p>
+
+<table align="center">
+<tr>
+<td>
+
+
 Currently Working with Red Hat  
 
 🐧 8+ years of experience in Linux System Administration (RHEL-based environments)  
