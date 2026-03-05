@@ -20,6 +20,40 @@ Currently Working with Red Hat
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipayandutta/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inbox.dipayan@gmail.com) 
 
+<h2 align="center">⚙️ Core Engineering Stack</h2>
+
+<p align="center">
+<marquee behavior="scroll" direction="left" scrollamount="7">
+
+🐍 Python &nbsp;&nbsp; 
+⚙️ C &nbsp;&nbsp; 
+⚙️ C++ &nbsp;&nbsp; 
+🚀 Go &nbsp;&nbsp; 
+🌐 Flask &nbsp;&nbsp; 
+🪶 Apache &nbsp;&nbsp; 
+⚡ Nginx &nbsp;&nbsp; 
+☕ Tomcat &nbsp;&nbsp; 
+🗄 SQLite &nbsp;&nbsp; 
+🐬 MySQL &nbsp;&nbsp; 
+🦭 MariaDB &nbsp;&nbsp; 
+📊 Matplotlib &nbsp;&nbsp; 
+🔢 NumPy &nbsp;&nbsp; 
+📈 SciPy &nbsp;&nbsp; 
+🐼 Pandas &nbsp;&nbsp; 
+🔥 PyTorch &nbsp;&nbsp; 
+🤖 scikit-learn &nbsp;&nbsp; 
+🐙 GitHub &nbsp;&nbsp; 
+🦊 GitLab &nbsp;&nbsp; 
+🧪 Selenium &nbsp;&nbsp; 
+🔌 Arduino &nbsp;&nbsp; 
+⚙️ Ansible &nbsp;&nbsp; 
+📊 Grafana &nbsp;&nbsp; 
+🛡 Pi-Hole &nbsp;&nbsp; 
+🐳 Docker &nbsp;&nbsp; 
+☸ Kubernetes
+
+</marquee>
+</p>
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 # 📊 GitHub Stats:
