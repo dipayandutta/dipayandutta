@@ -34,8 +34,6 @@ Currently Working with Red Hat
 </td>
 </tr>
 </table>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipayandutta&theme=tokyo-night)
-![GitHub Streak](https://streak-stats.demolab.com?user=dipayandutta&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dipayandutta&icon=2&color=0)](https://visitcount.itsvg.in) 
