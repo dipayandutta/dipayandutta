@@ -22,9 +22,6 @@ Currently Working with Red Hat
 # 📊 GitHub Stats:
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipayandutta&theme=tokyo-night)
 ![GitHub Streak](https://streak-stats.demolab.com?user=dipayandutta&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api?username=dipayandutta&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dipayandutta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipayandutta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dipayandutta&icon=2&color=0)](https://visitcount.itsvg.in) 
