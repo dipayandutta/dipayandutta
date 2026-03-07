@@ -29,7 +29,7 @@ Currently Working with Red Hat
 <tr>
 <td>
 
-<img src="https://streak-stats.demolab.com?user=dipayandutta&theme=tokyonight" height="200"/>
+<img src="https://streak-stats.demolab.com/?user=dipayandutta&theme=tokyonight" height="200"/>
 
 </td>
 <td>
