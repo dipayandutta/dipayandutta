@@ -1,46 +1,128 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Dipayan+Dutta;Linux+Engineer+%7C+Red+Hat+Certified;Python+Programmer;DevOps+%7C+Security+Researcher;Kernel+%7C+eBPF+%7C+ML+Infrastructure;Quantum+Security+Researcher" />
-</h1>
-## 💫 About Me  
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00F7FF&height=220&section=header&text=Dipayan%20Dutta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Linux%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Security%20Researcher&descAlignY=58&descSize=18&animation=fadeIn" alt="Header" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/dipayandutta">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%90%A7+Linux+Engineer+%40+Red+Hat;%F0%9F%8E%93+RHCSA+%7C+RHCE+%7C+OpenShift;%F0%9F%90%8D+Python+Programmer;%F0%9F%9B%A1%EF%B8%8F+DevOps+%7C+Security+Researcher;%E2%9A%99%EF%B8%8F+Kernel+%7C+eBPF+%7C+ML+Infrastructure;%E2%9A%9B%EF%B8%8F+Quantum+Security+Researcher" alt="Typing SVG" />
+  </a>
+</p>
 
-Currently Working with Red Hat  
-
-🐧 8+ years of experience in Linux System Administration (RHEL-based environments)  
-🎓 Red Hat Certified: RHCSA | RHCE | Containers | OpenShift  
-🌐 Web stack expertise: NGINX, Apache, Reverse Proxy, ModSecurity  
-🐳 Containerization & Orchestration: Docker, Kubernetes, OpenShift  
-💾 Storage & Infrastructure: Ceph, AWS (EC2, EBS, VPC, S3)  
-🔐 Security-focused: Vulnerability Assessment, Penetration Testing, System Hardening  
-🐍 Python Developer building automation and ML-based troubleshooting tools  
-⚙ Exploring Kernel Modules, eBPF, and System-Level Observability  
-⚛ Researching Quantum-integrated security and entropy systems  
-
-🚀 Passionate about low-level system internals, performance optimization, and building intelligent infrastructure tools.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipayandutta/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inbox.dipayan@gmail.com) 
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-<table align="center">
-<tr>
-<td>
-
-<img src="https://streak-stats.demolab.com/?user=dipayandutta&theme=tokyonight" height="200"/>
-
-</td>
-<td>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipayandutta&theme=tokyo-night" height="200"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://linkedin.com/in/dipayandutta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:inbox.dipayan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/dipayandutta"><img src="https://img.shields.io/github/followers/dipayandutta?label=Followers&style=for-the-badge&logo=github&color=302b63" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=dipayandutta&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dipayandutta&icon=2&color=0)](https://visitcount.itsvg.in) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dipayandutta&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dipayandutta&theme=default" />
+  <img align="right" width="380" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dipayandutta&theme=default" alt="Top languages" />
+</picture>
+
+> 🚀 *Passionate about low-level system internals, performance optimization, and building intelligent infrastructure tools.*
+
+- 🔴 Currently working at **Red Hat**
+- 🐧 **8+ years** in Linux System Administration (RHEL-based environments)
+- 🎓 **Red Hat Certified:** RHCSA · RHCE · Containers · OpenShift
+- 🌐 **Web stack:** NGINX, Apache, Reverse Proxy, ModSecurity
+- 🐳 **Containers & Orchestration:** Docker, Kubernetes, OpenShift
+- 💾 **Storage & Cloud:** Ceph, AWS (EC2, EBS, VPC, S3)
+- 🔐 **Security:** Vulnerability Assessment, Penetration Testing, System Hardening
+- 🐍 **Python:** automation & ML-based troubleshooting tools
+- ⚙️ **Exploring:** Kernel Modules, eBPF, System-Level Observability
+- ⚛️ **Researching:** Quantum-integrated security & entropy systems
+
+<br clear="right" />
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,redhat,bash,python,c,cpp,go,flask&perline=8" alt="Languages" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,aws,nginx,grafana,gitlab,github&perline=8" alt="DevOps" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,pytorch,sklearn,jenkins,arduino,raspberrypi,vim&perline=8" alt="Data & more" />
+</p>
+
+<details>
+<summary><b>📦 Full toolbox</b></summary>
+<br/>
+
+| Category | Tools |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Web & Servers** | ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white) |
+| **DevOps & Infra** | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white) ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white) ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pi-hole&logoColor=white) |
+| **Data & ML** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Tools & Other** | ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipayandutta&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipayandutta&theme=default" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipayandutta&theme=default" alt="Profile details" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipayandutta&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipayandutta&theme=default" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dipayandutta&theme=default" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=dipayandutta&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=dipayandutta&theme=default&hide_border=true" />
+    <img height="170" src="https://streak-stats.demolab.com/?user=dipayandutta&theme=default&hide_border=true" alt="GitHub streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipayandutta&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipayandutta&theme=default" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dipayandutta&theme=default" alt="Repos per language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dipayandutta&theme=tokyonight&utcOffset=5.5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dipayandutta&theme=default&utcOffset=5.5" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dipayandutta&theme=default&utcOffset=5.5" alt="Productive time" />
+  </picture>
+</p>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=dipayandutta&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=dipayandutta&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+    <img src="https://github-trophies.vercel.app/?username=dipayandutta&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>“Talk is cheap. Show me the code.” — Linus Torvalds</i>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer" />
+</p>
